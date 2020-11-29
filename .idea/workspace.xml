@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b00d3dc-6db2-4378-9899-4e9fc013f735" name="Default Changelist" comment="2 commit">
+      <change afterPath="$PROJECT_DIR$/Section3/input_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section3/input_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section3/input_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2_6.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eWgvlazJMkmrrwbkrXGhNrIE2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Make_GT/make_GT.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager" selected="Python.sec4_06_씨름선수(그리디)">
+    <configuration name="sec4_02_랜선자르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding_prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section4/sec4_02_랜선자르기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sec4_03_뮤직비디오(결정알고리즘)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding_prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section4/sec4_03_뮤직비디오(결정알고리즘).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sec4_04_마구간정하기(결정알고리즘)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding_prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section4/sec4_04_마구간정하기(결정알고리즘).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sec4_05_회의실배정(그리디)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding_prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section4/sec4_05_회의실배정(그리디).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sec4_06_씨름선수(그리디)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding_prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section4/sec4_06_씨름선수(그리디).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sec4_06_씨름선수(그리디)" />
+        <item itemvalue="Python.sec4_05_회의실배정(그리디)" />
+        <item itemvalue="Python.sec4_04_마구간정하기(결정알고리즘)" />
+        <item itemvalue="Python.sec4_03_뮤직비디오(결정알고리즘)" />
+        <item itemvalue="Python.sec4_02_랜선자르기" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b00d3dc-6db2-4378-9899-4e9fc013f735" name="Default Changelist" comment="" />
+      <created>1594442995131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594442995131</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2 commit">
+      <created>1595075962270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595075962270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604148031480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604148031480" />
+    <state x="561" y="297" key="FileChooserDialogImpl" timestamp="1600500245440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="297" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600500245440" />
+    <state width="1899" height="346" key="GridCell.Tab.0.bottom" timestamp="1606634880536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606634880536" />
+    <state width="1899" height="343" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
+    <state width="1899" height="346" key="GridCell.Tab.0.center" timestamp="1606634880536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606634880536" />
+    <state width="1899" height="343" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
+    <state width="1899" height="346" key="GridCell.Tab.0.left" timestamp="1606634880536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606634880536" />
+    <state width="1899" height="343" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605546344030" />
+    <state width="1899" height="346" key="GridCell.Tab.0.right" timestamp="1606634880536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606634880536" />
+    <state width="1899" height="343" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
+    <state width="1899" height="343" key="GridCell.Tab.1.bottom" timestamp="1606548227494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606548227494" />
+    <state width="1899" height="343" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
+    <state width="1899" height="343" key="GridCell.Tab.1.center" timestamp="1606548227493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606548227493" />
+    <state width="1899" height="343" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
+    <state width="1899" height="343" key="GridCell.Tab.1.left" timestamp="1606548227493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606548227493" />
+    <state width="1899" height="343" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
+    <state width="1899" height="343" key="GridCell.Tab.1.right" timestamp="1606548227494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606548227494" />
+    <state width="1899" height="343" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
+    <state x="346" y="71" key="SettingsEditor" timestamp="1604148643313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="346" y="71" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604148643313" />
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599375260269" />
+    <state x="324" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599974731196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1599974731196" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604150326218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604150326218" />
+  </component>
+</project>
