@@ -23,6 +23,7 @@ if __name__=="__main__" :
     ch=[0]*(n+1)
     s=1
 
+
     dfs(0)
     print(cnt)
 
