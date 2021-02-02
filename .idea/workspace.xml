@@ -19,8 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b00d3dc-6db2-4378-9899-4e9fc013f735" name="Default Changelist" comment="9commit">
+    <list default="true" id="9b00d3dc-6db2-4378-9899-4e9fc013f735" name="Default Changelist" comment="10 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section8_동적계획법/input_09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section8_동적계획법/input_09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section8_동적계획법/input_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section8_동적계획법/input_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section8_동적계획법/input_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section8_동적계획법/input_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section8_동적계획법/input_12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section8_동적계획법/input_12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section8_동적계획법/input_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section8_동적계획법/input_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section8_동적계획법/input_14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section8_동적계획법/input_14.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +65,8 @@
       <recent name="C:\Users\박지영\Desktop\Coding_prac\Section6_완전탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sec8_08_알리바바와40인도둑(Top_down)">
-    <configuration name="sec8_05_최대부분증가수열(LIS)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sec8_14_위상정렬(그래프정렬)">
+    <configuration name="sec8_10_동전교환(냅색알고리즘)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_05_최대부분증가수열(LIS).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_10_동전교환(냅색알고리즘).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sec8_06_최대선연결하기(LIS응용)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sec8_11_최대점수구하기(냅색알고리즘)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_06_최대선연결하기(LIS응용).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_11_최대점수구하기(냅색알고리즘).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sec8_07_가장높은탑쌓기(LIS응용)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sec8_12_플로이드워샬알고리즘" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_07_가장높은탑쌓기(LIS응용).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_12_플로이드워샬알고리즘.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sec8_08_알리바바와40인도둑(Bottom_up)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sec8_13_회장뽑기(플로이드워샬응용)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_08_알리바바와40인도둑(Bottom_up).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_13_회장뽑기(플로이드워샬응용).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sec8_08_알리바바와40인도둑(Top_down)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sec8_14_위상정렬(그래프정렬)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_08_알리바바와40인도둑(Top_down).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section8_동적계획법/sec8_14_위상정렬(그래프정렬).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sec8_08_알리바바와40인도둑(Top_down)" />
-        <item itemvalue="Python.sec8_08_알리바바와40인도둑(Bottom_up)" />
-        <item itemvalue="Python.sec8_07_가장높은탑쌓기(LIS응용)" />
-        <item itemvalue="Python.sec8_06_최대선연결하기(LIS응용)" />
-        <item itemvalue="Python.sec8_05_최대부분증가수열(LIS)" />
+        <item itemvalue="Python.sec8_14_위상정렬(그래프정렬)" />
+        <item itemvalue="Python.sec8_13_회장뽑기(플로이드워샬응용)" />
+        <item itemvalue="Python.sec8_12_플로이드워샬알고리즘" />
+        <item itemvalue="Python.sec8_11_최대점수구하기(냅색알고리즘)" />
+        <item itemvalue="Python.sec8_10_동전교환(냅색알고리즘)" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611631830771</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="10 commit">
+      <created>1611977658840</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611977658840</updated>
+    </task>
+    <task id="LOCAL-00012" summary="10 commit">
+      <created>1611977673924</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611977673924</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +300,8 @@
     <MESSAGE value="7 commit" />
     <MESSAGE value="8 commit" />
     <MESSAGE value="9commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="9commit" />
+    <MESSAGE value="10 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611974778642">
@@ -299,49 +320,49 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="831" y="417" key="Github.ShareDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607834314474" />
-    <state width="1431" height="201" key="GridCell.Tab.0.bottom" timestamp="1611977629585">
+    <state width="1428" height="201" key="GridCell.Tab.0.bottom" timestamp="1612244902190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1142" height="135" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1611036756598" />
-    <state width="1431" height="201" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611977629585" />
+    <state width="1428" height="201" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612244902190" />
     <state width="599" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610443001939" />
-    <state width="1431" height="201" key="GridCell.Tab.0.center" timestamp="1611977629585">
+    <state width="1428" height="201" key="GridCell.Tab.0.center" timestamp="1612244902190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1142" height="135" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1611036756598" />
-    <state width="1431" height="201" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611977629585" />
+    <state width="1428" height="201" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612244902190" />
     <state width="599" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610443001939" />
-    <state width="1431" height="201" key="GridCell.Tab.0.left" timestamp="1611977629585">
+    <state width="1428" height="201" key="GridCell.Tab.0.left" timestamp="1612244902190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1142" height="135" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1611036756598" />
-    <state width="1431" height="201" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611977629585" />
+    <state width="1428" height="201" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612244902190" />
     <state width="599" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610443001939" />
-    <state width="1431" height="201" key="GridCell.Tab.0.right" timestamp="1611977629585">
+    <state width="1428" height="201" key="GridCell.Tab.0.right" timestamp="1612244902190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1142" height="135" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1611036756598" />
-    <state width="1431" height="201" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611977629585" />
+    <state width="1428" height="201" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612244902190" />
     <state width="599" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610443001939" />
-    <state width="949" height="343" key="GridCell.Tab.1.bottom" timestamp="1611293896925">
+    <state width="949" height="343" key="GridCell.Tab.1.bottom" timestamp="1612067691483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="343" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611293896925" />
+    <state width="949" height="343" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612067691483" />
     <state width="1899" height="343" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
-    <state width="949" height="343" key="GridCell.Tab.1.center" timestamp="1611293896925">
+    <state width="949" height="343" key="GridCell.Tab.1.center" timestamp="1612067691483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="343" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611293896925" />
+    <state width="949" height="343" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612067691483" />
     <state width="1899" height="343" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
-    <state width="949" height="343" key="GridCell.Tab.1.left" timestamp="1611293896925">
+    <state width="949" height="343" key="GridCell.Tab.1.left" timestamp="1612067691483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="343" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611293896925" />
+    <state width="949" height="343" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612067691483" />
     <state width="1899" height="343" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
-    <state width="949" height="343" key="GridCell.Tab.1.right" timestamp="1611293896925">
+    <state width="949" height="343" key="GridCell.Tab.1.right" timestamp="1612067691483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="343" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611293896925" />
+    <state width="949" height="343" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612067691483" />
     <state width="1899" height="343" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605546344031" />
     <state x="346" y="71" key="SettingsEditor" timestamp="1604148643313">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -355,10 +376,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="380" key="git4idea.rebase.GitRebaseDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606635210335" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611125760247">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612062360403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611125760247" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1612062360403" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
